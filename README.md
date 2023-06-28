@@ -1,5 +1,3 @@
-# :warning: New Update Coming Soon
-
 ## Minishell Resource
 https://minishell.simple.ink/
 
